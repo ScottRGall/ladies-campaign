@@ -1,0 +1,12 @@
+# Never commit DM content
+DM/
+**/DM/
+Assets/DM/
+
+# Obsidian junk
+.obsidian/
+.trash/
+
+# OS junk
+.DS_Store
+Thumbs.db
