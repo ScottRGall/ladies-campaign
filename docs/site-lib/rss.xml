@@ -1,0 +1,57 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ladies Campaign]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Ladies Campaign</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 11 Jan 2026 21:52:15 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 11 Jan 2026 21:52:15 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Ladies Campaign]]></title><description><![CDATA[Welcome to the Ladies Campaign Players Journal.Players Journal site (this Site): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://scottrgall.github.io/ladies-campaign/" target="_self">https://scottrgall.github.io/ladies-campaign/</a><br>
+DnD Beyond Campaign Link: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.dndbeyond.com/campaigns/join/73949793317632351" target="_self">https://www.dndbeyond.com/campaigns/join/73949793317632351</a>]]></description><link>player/ladies-campaign.html</link><guid isPermaLink="false">Player/Ladies Campaign.md</guid><pubDate>Sun, 11 Jan 2026 21:51:37 GMT</pubDate></item><item><title><![CDATA[Asset Links]]></title><description><![CDATA[<a data-href="Assets/Public/Tea House Interior.png" href="assets/public/tea-house-interior.html" class="internal-link" target="_self" rel="noopener nofollow">Assets/Public/Tea House Interior.png</a>]]></description><link>player/asset-links.html</link><guid isPermaLink="false">Player/Asset Links.md</guid><pubDate>Sun, 11 Jan 2026 21:10:13 GMT</pubDate></item><item><title><![CDATA[Tea House Interior]]></title><description><![CDATA[<img src="assets/public/tea-house-interior.png" target="_self">]]></description><link>assets/public/tea-house-interior.html</link><guid isPermaLink="false">Assets/Public/Tea House Interior.png</guid><pubDate>Sun, 11 Jan 2026 20:58:57 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[House Rules]]></title><description><![CDATA[
+Everyone uses Point Buy <a data-href="Player Point Buy Worksheet" href="player/sessions/session-0/player-point-buy-worksheet.html" class="internal-link" target="_self" rel="noopener nofollow">Player Point Buy Worksheet</a>
+Everyone starts with 27 points.
+One ability should intentionally be weaker than the others.
+Full rebuilds are allowed until the start of Session 2. After this it will have to work narratively with DM approval after this. I'm not opposed to character changes but I'd like to avoid destabilizing the party in the process. ]]></description><link>player/rules/house-rules.html</link><guid isPermaLink="false">Player/Rules/House Rules.md</guid><pubDate>Sun, 11 Jan 2026 20:43:54 GMT</pubDate></item><item><title><![CDATA[Player Point Buy Worksheet]]></title><description><![CDATA[Point Buy Stats Strength&nbsp;is crushing a tomato.
+Dexterity&nbsp;is dodging the tomato when someone throws it at you.
+Constitution&nbsp;is eating a rotten one and not being ill because of it.
+Intelligence&nbsp;is knowing a tomato is a fruit
+Wisdom&nbsp;is knowing not to put it in a fruit salad.
+Charisma&nbsp;is convincing people to buy your tomato-based fruit salad.D&amp;D 5e Point Buy Cost Table
+Point buy in D&amp;D 5e gives you 27 points to spend on your six ability scores before racial bonuses.You cannot raise a score above 15 before racial bonuses. Once the 27 points are spent, you apply racial bonuses, pick your class, and you are done. This ensures everyone starts balanced while still choosing what their character is good at and where they are weaker.When creating your character in D&amp;D Beyond, please follow these steps exactly.
+Create or open your character.
+Go to the Abilities section.
+Under Generation Method, select Point Buy.
+You will see all ability scores start at 8 and a pool of 27 points.
+Use the plus and minus buttons to raise or lower scores. You cannot raise any score above 15 before racial bonuses. Once you have spent all 27 points, stop.
+Apply your racial bonuses automatically when prompted.
+Do not roll for stats and do not use standard array.
+That’s it. If you get stuck, stop and we will finish it together in Session 0.]]></description><link>player/sessions/session-0/player-point-buy-worksheet.html</link><guid isPermaLink="false">Player/Sessions/Session 0/Player Point Buy Worksheet.md</guid><pubDate>Sun, 11 Jan 2026 20:39:22 GMT</pubDate></item><item><title><![CDATA[Session 0]]></title><description><![CDATA[<a data-href="Table Setup and Expectations" href="player/sessions/session-0/table-setup-and-expectations.html" class="internal-link" target="_self" rel="noopener nofollow">Table Setup and Expectations</a>Technical DND Beyond Setup for each player:
+Install DnD Beyond App on phones/iPad (if desired)
+Setup DnD Beyond Accounts
+Walk through of Character Creation on DnD Beyond Website
+<br><a data-href="Character Concepts From Each Player" href="player/sessions/session-0/character-concepts-from-each-player.html" class="internal-link" target="_self" rel="noopener nofollow">Character Concepts From Each Player</a><br><a data-href="Player Point Buy Worksheet" href="player/sessions/session-0/player-point-buy-worksheet.html" class="internal-link" target="_self" rel="noopener nofollow">Player Point Buy Worksheet</a>]]></description><link>player/sessions/session-0.html</link><guid isPermaLink="false">Player/Sessions/Session 0.md</guid><pubDate>Sun, 11 Jan 2026 20:38:47 GMT</pubDate></item><item><title><![CDATA[Player Characters (PCs)]]></title><description><![CDATA[P = Primary Focus, S = Secondary]]></description><link>player/player-characters-(pcs).html</link><guid isPermaLink="false">Player/Player Characters (PCs).md</guid><pubDate>Sun, 11 Jan 2026 19:59:30 GMT</pubDate></item><item><title><![CDATA[Character Concepts From Each Player]]></title><description><![CDATA[4) Character Pitch (one sentence)
+“I am a __ who __.”Examples: “I am a runaway acolyte who still hears my god in my dreams.” “I am a practical hunter who does not trust magic, but needs it.”
+DM TODO: add results to <a data-href="Player Characters (PCs)" href="player/player-characters-(pcs).html" class="internal-link" target="_self" rel="noopener nofollow">Player Characters (PCs)</a> 5) Three Tags
+Pick 3:
+Protector
+Survivor
+Scholar
+Trickster
+Zealot
+Outcast
+Leader
+Caretaker
+Daredevil
+Loyalist
+Rebel
+Greedy (but redeemable)
+6) Spotlight Preference
+Circle one:
+I like being central sometimes I prefer supporting others I want a mix
+]]></description><link>player/sessions/session-0/character-concepts-from-each-player.html</link><guid isPermaLink="false">Player/Sessions/Session 0/Character Concepts From Each Player.md</guid><pubDate>Sun, 11 Jan 2026 19:50:27 GMT</pubDate></item><item><title><![CDATA[Table Setup and Expectations]]></title><description><![CDATA[1) Campaign Tone
+Circle one: Cozy heroic Classic heroic with danger Dark fairy tale with hope Grim and morally messy 2) Party Contract
+Answer yes or no:
+We are a cooperative party (no sabotage): Y / N
+Secrets between characters are allowed if they create story not conflict: Y / N
+PvP is only allowed with prior consent: Y / N
+Party splits will be kept short and rare: Y / N
+3) Safety and Boundaries Non-Negotiable:
+No harm to children
+No sexual violence of any kind
+Party Discussion:
+Fade to black for romance
+Avoid torture detail
+Other: ___
+]]></description><link>player/sessions/session-0/table-setup-and-expectations.html</link><guid isPermaLink="false">Player/Sessions/Session 0/Table Setup and Expectations.md</guid><pubDate>Sun, 11 Jan 2026 19:48:05 GMT</pubDate></item><item><title><![CDATA[Sessions]]></title><description><![CDATA[<a data-tooltip-position="top" aria-label="Player/Sessions/Session 0" data-href="Player/Sessions/Session 0" href="player/sessions/session-0.html" class="internal-link" target="_self" rel="noopener nofollow">Session 0</a>]]></description><link>player/sessions.html</link><guid isPermaLink="false">Player/Sessions.md</guid><pubDate>Sun, 11 Jan 2026 19:31:41 GMT</pubDate></item><item><title><![CDATA[Healing Potion House Rules]]></title><link>player/rules/healing-potion-house-rules.html</link><guid isPermaLink="false">Player/Rules/Healing Potion House Rules.md</guid><pubDate>Sun, 11 Jan 2026 19:08:31 GMT</pubDate></item><item><title><![CDATA[Locations]]></title><description><![CDATA[Player]]></description><link>player/locations.html</link><guid isPermaLink="false">Player/Locations.md</guid><pubDate>Sun, 11 Jan 2026 17:37:28 GMT</pubDate></item><item><title><![CDATA[Non-Player Characters (NPCs)]]></title><description><![CDATA[player]]></description><link>player/non-player-characters-(npcs).html</link><guid isPermaLink="false">Player/Non-Player Characters (NPCs).md</guid><pubDate>Sun, 11 Jan 2026 17:35:18 GMT</pubDate></item></channel></rss>
